@@ -10,18 +10,20 @@ This project was originally created as the Portfolio Project associated with Cod
 
 This analysis was created with Python 3.10.8.
 
-Create a new virtual environment and activate it:
-```
-python -m venv venv
-source venv/Scripts/activate
-```
+To set up the environment, follow these steps:
 
-and install the requirements:
-```
-pip install -r requirements.txt
-```
+1. Create a new virtual environment and activate it:
+    ```
+    python -m venv venv
+    source venv/Scripts/activate
+    ```
 
-then run jupyter lab with:
-```
-jupyter lab
-```
+2. Install the required packages:
+    ```
+    pip install -r requirements.txt
+    ```
+
+3. Run Jupyter Lab:
+    ```
+    jupyter lab
+    ```
